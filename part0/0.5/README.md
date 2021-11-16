@@ -1,0 +1,1 @@
+<img src="Single-page-app.png">
